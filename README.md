@@ -9,10 +9,10 @@
 <hr>
 
 <!-- Personal details and image section -->
-<strong>Python & Django</strong> <img src="https://github.com/user-attachments/assets/03f28b46-a00a-4204-b070-817b98f169cc" min-width="300px" max-width="300px" width="350px" align="right" />
-Building interactive web apps with <strong>HTMX</strong>
-Backend Web Developer 
-Ask me about <strong>Python, Django, Flask, Linux and WebSockets</strong>
+In love with <strong>Python & Django</strong> <img src="https://github.com/user-attachments/assets/03f28b46-a00a-4204-b070-817b98f169cc" min-width="300px" max-width="300px" width="350px" align="right" /> <br />
+Building interactive web apps with <strong>HTMX</strong> <br />
+Backend Web Developer <br />
+Ask me about <strong>Python, Django, Flask, Linux, and WebSockets</strong> <br />
 Looking for <strong>open source contribution</strong>
 <details>
   <summary><b>Tech Stack</b></summary><br>
@@ -64,3 +64,4 @@ Looking for <strong>open source contribution</strong>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tarvel&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
+
